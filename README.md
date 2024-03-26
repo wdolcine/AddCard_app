@@ -4,7 +4,7 @@
 
 ### App Description
 
-
+  This app gives the user more options , to add question and several answers , with the access to modify the answers and the question.
 ### App Walk-though
 
 
@@ -20,11 +20,11 @@
 - [x] Push your progress to GitHub!
 
 ## Optional
-- [ ] User can edit a card
-- [ ] An error message is shown if the user doesn't enter both a Question and an Answer
-- [ ] A notification is shown if the card was created successfully
-- [ ] User can also enter multiple choice answers when creating a card
-- [ ] App is further styled and customized!
+- [x] User can edit a card
+- [x] An error message is shown if the user doesn't enter both a Question and an Answer
+- [x] A notification is shown if the card was created successfully
+- [x] User can also enter multiple choice answers when creating a card
+- [x] App is further styled and customized!
 After selecting text, you can set a shortcut key to display the Context Menu.
 Got it
 Go to Settings
