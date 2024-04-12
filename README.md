@@ -8,7 +8,7 @@
 ### App Walk-though
 
 
-<img src="https://github.com/wdolcine/AddCard_app/blob/main/add_card.gif" width=200><br>
+<img src="https://github.com/wdolcine/AddCard_app/blob/main/add_card.gif" width=100><br>
 
 
 
